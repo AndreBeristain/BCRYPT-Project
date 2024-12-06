@@ -1,6 +1,6 @@
 **IMPORTANT**
 
-This is a Script for HASHING passwords that require the older Version "$2a$", instead of the most recent $2b$ format with BCRYPT
+This is a Script for HASHING passwords that require the older Version "$2a$", instead of the most recent "$2b$" format with BCRYPT
 
 
 **HOW TO RUN**
